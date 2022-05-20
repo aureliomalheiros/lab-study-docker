@@ -7,7 +7,7 @@ The `private_network` should exist in the VirtualBox.
 - VirtualBox
 - Vagrant
 
-### 🚀 Execução
+### 🚀 Run
 
 ```bash
 $vagrant up
